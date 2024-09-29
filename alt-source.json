@@ -1,0 +1,14 @@
+{
+  "name": "Pica Comic",
+  "subtitle": "A comic app with multiple sources built with flutter.",
+  "description": "A comic app built with Flutter, supporting multiple comic sources.",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://github.com/wgh136/PicaComic",
+  "tintColor": "#F8E4E4",
+  "featuredApps": [
+    "com.kokoiro.xyz.PicaComic"
+  ],
+  "apps": [],
+  "news": [],
+}
